@@ -1,6 +1,6 @@
 # Nmap
 
-`nmap -sS -p- target
+`nmap -sS -p- target`
 
 * -sS : Syn Scan (Stealth)
 * -p- : All ports.
