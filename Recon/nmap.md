@@ -1,7 +1,7 @@
 # Nmap
 
-`nmap -sS -Pn -p 1-65535 target`
+nmap -sS -p- target
 
-* -sS : 
-* -Pn : 
-* -p : 
+* -sS : Syn Scan (Stealth)
+* -p- : All ports.
+* -p : 1-65535 or 80,443 
