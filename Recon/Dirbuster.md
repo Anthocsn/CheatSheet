@@ -14,3 +14,4 @@
 ## Others options :
 
 * -r : For save the report
+* -s : Change the start point. Default: /
