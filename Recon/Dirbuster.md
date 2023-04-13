@@ -11,6 +11,6 @@
 * -v : Verbose
 
 
-## others options :
+## Others options :
 
 * -r : For save the report
