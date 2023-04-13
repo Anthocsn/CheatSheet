@@ -1,6 +1,6 @@
 # Dirbuster
 
-`dirbuster -H -e "html,php,asp,aspx,txt" -u "http://target:80" -l wordlist  -v`
+`dirbuster -H -e "html,php,asp,aspx,txt" -u "http://target:80" -l wordlist -v`
 
 ## Default options :
 
