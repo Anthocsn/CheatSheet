@@ -1,17 +1,15 @@
 # Dirbuster
 
-`dirbuster -H -e "html,php,asp,aspx,txt" -u "http://target:80" -l wordlist -v`
+`dirbuster -e "html,php,asp,aspx,txt" -u "http://target:80" -l wordlist `
 
 ## Default options :
 
-* -H : No GUI
 * -e : File extention (html,php,asp,aspx,txt...)
 * -u : URL
 * -l : Worlist
-* -v : Verbose
-
 
 ## Others options :
 
 * -r : For save the report
 * -s : Change the start point. Default: /
+* -H : No GUI (Not working for me, can't find anything)
