@@ -1,0 +1,3 @@
+Change the IP and the port to match with the attacker host.
+Find a website where we can upload a file somewhere. 
+Browse the website to launch the file.
