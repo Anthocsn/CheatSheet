@@ -1,6 +1,6 @@
 #Hydra
 
-`hydra -L login.txt -P file.txt -s target service`
+`hydra -L login.txt -P file.txt -s 80 target service`
 
 ## Default options
 
