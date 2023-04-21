@@ -1,3 +1,4 @@
 Change the IP and the port to match with the attacker host.
 Find a website where we can upload a file somewhere. 
 Browse the website to launch the file.
+If the file is not uploaded, maybe the website block some extension file. So we need to bypass and try other extension.
