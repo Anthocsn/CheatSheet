@@ -2,4 +2,6 @@
 
 `sudo -l`
 
-* -l : List all actions that que we can do as sudo
+## Basique
+
+* -l : Liste toutes les actions pouvant être fait en sudo.

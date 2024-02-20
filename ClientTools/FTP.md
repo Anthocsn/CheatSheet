@@ -2,13 +2,13 @@
 
 `ftp user@target -P 21 -A`
 
-## Default options
+## Basique
 
-* -P : Specify the port
-* -A : Force Active mode
+* -P : Pour définir le port à utiliser.
+* -A : Pour forcer le mode actif.
 
-## Command list
+## Liste des commandes une fois connecté
 
-* ls : Show files
-* get : Download file
-* mget : Download multiple file (Use *.extention)
+* ls : Afficher les fichiers.
+* get : Télécharger un fichier.
+* mget : Télécharger plusieurs fichiers (Utiliser *.extention).

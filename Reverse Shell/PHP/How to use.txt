@@ -1,4 +1,4 @@
-Change the IP and the port to match with the attacker host.
-Find a website where we can upload a file somewhere. 
-Browse the website to launch the file.
-If the file is not uploaded, maybe the website block some extension file. So we need to bypass and try other extension.
+Changer l'IP et le port port pour correspondre à la machine de l'attaquant.
+Trouver un site sur lequel il est possible d'uploader le reverse shell.
+Naviguer sur le site web pour le faire executer le reverse shell.
+Si le fichier ne s'upload pas il est possible que le site bloque certaines extension dans ce cas il faut essayer de la modifier pour en trouver une qui soit accepté.

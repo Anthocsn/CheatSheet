@@ -2,10 +2,10 @@
 
 `nc -lvnp 1234`
 
-## Default options
+## basique
 
-* -l : Listen mode
-* -v : Verbose
-* -n : numeric-only IP addresses, no DNS
-* -p : local port number for listining
+* -l : Pour se mettre en mode écoute.
+* -v : Active le mode verbose pour plus de détails.
+* -n : Permet de définir l'écoute uniquement sur une adresse ip numérique et pas un nom DNS.
+* -p : Permet de définir le port d'écoute local.
 

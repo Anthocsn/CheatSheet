@@ -2,13 +2,13 @@
 
 `hydra -L login.txt -P file.txt -s 80 target service`
 
-## Default options
+## Basique
 
-* -L : For users file. -l to define the login to use.
-* -P : For passwords file. -p to define the password to use.
-* -s : Port
+* -L : Pour définir un ficher contenant une liste d'utilisateurs. -l pour définir l'utilisateur manuellement.
+* -P : Pour définir un ficher contenant une liste de mot de passe. -p pour définir le mot de passe manuellement.
+* -s : Pour définir le port à utiliser. 
 
-## Others options
+## Autres options
 
-* -o : write found login/password pairs to FILE instead of stdout
+* -o file.txt : Pour exporter le résultat des combos de login / mot de passe découvert dans un fichier texte plutôt qu'en STDOUT.
 
