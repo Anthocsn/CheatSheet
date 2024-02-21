@@ -1,7 +1,8 @@
 # Préparation de la VM
 ## Sécurité
 
-* Chiffrement du disque dur
+* Chiffrement du disque dur : Avec l'option "Swap (no Hibernate)"
+* Mise à jour de l'OS et des paquets : `sudo apt update -y && sudo apt full-upgrade -y && sudo apt autoremove -y && sudo apt autoclean -y`
 
 ## Logs
 
