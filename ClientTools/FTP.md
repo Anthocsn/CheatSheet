@@ -1,4 +1,4 @@
-#FTP
+# FTP
 
 `ftp user@target -P 21 -A`
 

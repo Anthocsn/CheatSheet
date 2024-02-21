@@ -1,4 +1,4 @@
-#Hashcat
+# Hashcat
 
 `hashcat -a 0 -m 0 -w 4 hash.txt wordlist.txt `
 
